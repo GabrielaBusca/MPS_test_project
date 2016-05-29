@@ -1,4 +1,8 @@
 six months
+<<<<<<< HEAD
+ten ten
+=======
 
 
 Petru added this
+>>>>>>> origin/master
